@@ -7,6 +7,5 @@ I'm adding new hooks from time to time, check them out!
 Welcome to my Custom react hooks library!
 I'm adding new hooks from time to time, check them out!
 
-![alt text](https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png)
  
 
